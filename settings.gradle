@@ -1,0 +1,4 @@
+rootProject.name = 'NovaCore'
+include 'novacore-sql-provider'
+include 'novacore-sql-provider:connector'
+include 'novacore-sql-provider:executor'

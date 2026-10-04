@@ -1,0 +1,6 @@
+group = 'com.nova.plugins.core.sqlprovider.executor'
+version = '1.0-SNAPSHOT'
+
+dependencies {
+    implementation(project(":novacore-sql-provider:connector"))
+}
